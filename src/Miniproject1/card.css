@@ -1,0 +1,24 @@
+.childcard{
+    width: 200px;
+    box-shadow: 0px 0px 10px black;
+    margin: 50px auto;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.childcard img{
+    border-radius: 50%;
+}
+.childcard h2{
+    color: goldenrod;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: white;
+    color: blue;
+}
